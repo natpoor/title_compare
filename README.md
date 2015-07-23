@@ -1,5 +1,5 @@
 # title_compare
-Designed to compare two titles (string types), returns a rough measure of similarity (0-99). Basically a simplified bag of words approach.
+Simplified bag of words, compares two titles (string types), returns a rough measure of similarity (0-99).
 
 Python 2.7
 
